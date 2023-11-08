@@ -4,5 +4,5 @@
 function start()
 {
     var dog = true;
-    println("Do you have a dog? " + dog);
+    console.log("Do you have a dog? " + dog);
 }
